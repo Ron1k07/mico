@@ -1,0 +1,19 @@
+.kvadrat{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+
+    .text1{
+        color: white;
+    }
+
+    .text2{
+        opacity: 0;
+    }
+}
